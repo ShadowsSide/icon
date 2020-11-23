@@ -2,7 +2,7 @@
 
  **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
  
-> 快速跳转:  [iOS端教程](#📱iOS端Apple-News) / [Mac端教程](#💻Mac端AppleNews)  
+> 快速跳转:  [iOS端教程](#📱 iOS端 Apple-News) / [Mac端教程](#💻 Mac端 AppleNews)  
 
 # 💬 交流
 
