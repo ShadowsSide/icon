@@ -2,7 +2,7 @@
 
  **访问该页面时请勿打开浏览器的自动翻译，否则网页会乱码.   欢迎🌟Star！❤️**  
  
-> 快速跳转:  [iOS端教程](#📱iOS端Apple-News) / [Mac端教程](#💻Mac端Apple-News:)  
+> 快速跳转:  [iOS端教程](#📱iOS端Apple-News) / [Mac端教程](#💻Mac端Apple-News)  
 
 # 💬 交流
 
@@ -61,7 +61,7 @@
 > **建议分流添加完毕后关闭软件代理并重启代理软件以确保分流能正常工作。**  
 
 
-# 💻 Mac端 Apple-News:  
+# 💻 Mac端 Apple-News  
 
 1. 前往系统偏好设置➡️语言与地区➡️将地区更改为美国. Apple News的App将自动出现. 若Apple News图标未自动出现在桌面,可尝试前往:https://news.apple.com/ 点击免费试用一个月将自动跳转并出现App.  
 2. 开启全局代理/使用分流(需要包括map域名:DOMAIN,gspe21-ssl.ls.apple.com , DOMAIN,gspe1-ssl.ls.apple.com. **gspe后面的数字有时会变更导致分流失效,请保持分流为最新**)  
