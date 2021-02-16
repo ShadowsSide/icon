@@ -1,0 +1,4 @@
+(?<=_country_code=)CN(?=&) US 307
+
+[MITM]
+hostname = *.ls.apple.com
