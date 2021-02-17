@@ -1,4 +1,4 @@
-(?<=gspe*)-CN* url 307 -ssl.apple.com
+(?<=gspe*)-CN-(?=&) url 307 -
 
 [MITM]
 hostname = *.ls.apple.com
