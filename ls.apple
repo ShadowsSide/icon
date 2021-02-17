@@ -1,4 +1,5 @@
 (?<=country_code=)CN(?=&) url 307 US
+(?<=hardware=)iPhone13,4(?=&) url 307 ipad4,1
 
 [MITM]
 hostname = *.ls.apple.com
